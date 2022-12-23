@@ -38,16 +38,16 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true],
-['6288232154376', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
+['6285173308772', 'CakraDev', true],
+['6285173308772', 'CakraDev', true],
+['6285173308772', 'AbiDev', true] // Jangan Du Hapus Nanti eror 
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '6285173308772'
+global.nomorown = '6285173308772'
+global.nomorown1 = '6285173308772'
+global.nomorown2 = '6285173308772'
 global.nomorwa = '0'
 
 
@@ -84,11 +84,11 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/--'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '088232154376'
+global.pdana = 'Minta Ke Admin wk'
 global.povo = '-'
-global.pgopay = '088232154376'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '088232154376'
+global.ppulsa = '085173308772'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
